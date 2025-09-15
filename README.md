@@ -31,8 +31,8 @@ The analysis identifies distinct customer segments that can help businesses tail
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/mall-customer-segmentation.git
-cd mall-customer-segmentation
+git clone https://github.com/shivanshu01-hash/kmeans_customer_segmentation.git
+cd kmeans_customer_segmentation
 pip install -r requirements.txt
 
 Usage
